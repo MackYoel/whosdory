@@ -10,7 +10,6 @@ declare module 'vue' {
     GameBoard: typeof import('./components/atoms/GameBoard.vue')['default']
     HeaderWeb: typeof import('./components/atoms/HeaderWeb.vue')['default']
     Home: typeof import('./components/organisms/Home.vue')['default']
-    IconCarbonUserAvatar: typeof import('~icons/carbon/user-avatar')['default']
     PlayersForm: typeof import('./components/atoms/PlayersForm.vue')['default']
   }
 }

@@ -11,7 +11,7 @@ const appName = 'WhosDory'
     <div class="ml-auto flex items-center">
       <Dropdown>
         <template #trigger>
-          <IconCarbonUserAvatar class="text-2xl" />
+          <!-- <IconCarbonUserAvatar class="text-2xl" /> -->
         </template>
         <template #menu-items>
           <MenuItem v-slot="{ active }">
